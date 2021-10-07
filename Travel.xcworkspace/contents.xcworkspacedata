@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:UI/UI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CoreLayer/CoreLayer/CoreLayer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BaseUtils/BaseUtils.xcodeproj">
+   </FileRef>
+</Workspace>
